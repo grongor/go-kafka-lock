@@ -12,7 +12,7 @@ require (
 	go.uber.org/atomic v1.4.0 // indirect
 	go.uber.org/multierr v1.1.0 // indirect
 	go.uber.org/zap v1.10.0
-	golang.org/x/lint v0.0.0-20190930215403-16217165b5de
+	golang.org/x/lint 6edffad5e616
 	golang.org/x/tools v0.0.0-20190621195816-6e04913cbbac
 	gopkg.in/jcmturner/goidentity.v3 v3.0.0 // indirect
 	honnef.co/go/tools v0.0.1-2019.2.3
