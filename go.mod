@@ -3,7 +3,7 @@ module github.com/grongor/go-kafka-lock/kafkalock
 go 1.13
 
 require (
-	github.com/Shopify/sarama v1.23.1
+	github.com/Shopify/sarama v1.38.1
 	github.com/golang/mock v1.3.1
 	github.com/jonboulle/clockwork v0.1.0
 	github.com/pkg/errors v0.8.1 // indirect
